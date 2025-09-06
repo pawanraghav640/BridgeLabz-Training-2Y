@@ -1,0 +1,1 @@
+import java.util.*; class Q1_BMI { public static void main(String[] args){}}

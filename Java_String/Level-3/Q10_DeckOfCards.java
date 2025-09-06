@@ -1,0 +1,1 @@
+import java.util.*; class Q10_DeckOfCards { public static void main(String[] args){}}

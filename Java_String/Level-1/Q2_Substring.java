@@ -1,0 +1,1 @@
+import java.util.*; class Q2_Substring { public static void main(String[] args){}}
