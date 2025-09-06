@@ -1,0 +1,1 @@
+import java.util.*; class Q8_AnagramCheck { public static void main(String[] args){}}

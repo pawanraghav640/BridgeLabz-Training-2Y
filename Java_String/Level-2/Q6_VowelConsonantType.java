@@ -1,0 +1,1 @@
+import java.util.*; class Q6_VowelConsonantType { public static void main(String[] args){}}

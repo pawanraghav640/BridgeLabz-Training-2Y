@@ -1,0 +1,1 @@
+class Q4_NullPointerDemo { public static void main(String[] args){}}
