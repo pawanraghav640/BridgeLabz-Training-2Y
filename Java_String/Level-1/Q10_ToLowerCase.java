@@ -1,1 +1,0 @@
-class Q10_ToLowerCase { public static void main(String[] args){}}

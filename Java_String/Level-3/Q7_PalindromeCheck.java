@@ -1,1 +1,0 @@
-import java.util.*; class Q7_PalindromeCheck { public static void main(String[] args){}}

@@ -1,1 +1,0 @@
-import java.util.*; class Q2_SplitWordsCompare { public static void main(String[] args){}}
