@@ -1,1 +1,0 @@
-import java.util.*; class Q5_VowelConsonantCount { public static void main(String[] args){}}

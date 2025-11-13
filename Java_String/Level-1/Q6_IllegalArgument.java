@@ -1,1 +1,0 @@
-class Q6_IllegalArgument { public static void main(String[] args){}}
